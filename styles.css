@@ -90,7 +90,7 @@ body{
 
 }
 
-#alligned{
+.alligned{
 		margin: 0 20px 22px 27px;
 
 }
@@ -112,7 +112,7 @@ body{
 	margin-bottom: 10px;
 
 }
-#alligned h1{
+.alligned h1{
 		color: var(--Dark_cyan);
 }
 
