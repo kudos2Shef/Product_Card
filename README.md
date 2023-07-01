@@ -53,7 +53,7 @@ Mobile: 375px
 
 ### What I learned
 
-Using Flexbox 
+Used HTML, CSS to create product card preview component. Implemented flexbox property to allign product card,cssvariables and used media queries to make it responsive.  
 
 
 
