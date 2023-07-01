@@ -40,7 +40,7 @@ Mobile: 375px
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/kudos2Shef/Product_Card)
 - Live Site URL: [Add live site URL here](https://kudos2shef.github.io/Product_Card/)
 
 ## My process
