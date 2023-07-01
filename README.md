@@ -27,7 +27,8 @@ Users should be able to:
 
 Desktop: 1440px
 
- ![FireShot Capture 002 - Product preview card component - ](https://github.com/kudos2Shef/Product_Card/assets/16985060/e626a641-4c73-4613-b07f-42d8732c4ffc)
+ ![FireShot Capture 004 - Product preview card component - kudos2shef github io](https://github.com/kudos2Shef/Product_Card/assets/16985060/9a3150fe-1902-41af-9097-dfa24bf6bb92)
+
 
 Mobile: 375px 
 
