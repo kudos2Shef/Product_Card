@@ -29,12 +29,12 @@ Users should be able to:
 ### Screenshot
 
 Desktop: 1440px
- 
+
+![FireShot Capture 002 - Product preview card component - ](https://github.com/kudos2Shef/Product_Card/assets/16985060/62891ec1-5e2c-4bb6-929d-19a46ac7249c)
 
 Mobile: 375px
- 
 
-
+![FireShot Capture 003 - Product preview card component - ](https://github.com/kudos2Shef/Product_Card/assets/16985060/816d3ec3-12cf-4e69-b2c1-ecf54dfd523d)
 
 ### Links
 
