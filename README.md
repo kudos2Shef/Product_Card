@@ -60,7 +60,7 @@ Used HTML, CSS to create product card preview component. Implemented flexbox pro
 
 ## Author
 
-- Website - [kudos2shef](https://github.com/kudos2Shef)
+- Website - [@kudos2shef](https://github.com/kudos2Shef)
 - Frontend Mentor - [@kudos2shef]( https://www.frontendmentor.io/profile/kudos2Shef)
 
 
