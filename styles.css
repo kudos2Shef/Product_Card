@@ -2,11 +2,11 @@
 
 :root{
 	--Dark_cyan: hsl(158, 36%, 37%);
-	--cream:hsl(0, 0%, 100%);
+	--white:hsl(0, 0%, 100%);
 
 	--Very_dark_blue: hsl(212, 21%, 14%);
 	--Dark_grayish_blue: hsl(228, 12%, 48%);
-	--white:hsl(30, 38%, 92%);
+	--cream:hsl(30, 38%, 92%);
 
 
 }
@@ -19,7 +19,7 @@
 }
 
 body{
-	background: var(--white);
+	background: var(--cream);
 }
 .card_compo{
 	display: flex;
@@ -40,7 +40,7 @@ body{
 	margin-top:140px;
 	height:420px ;
 	width: 280px;
-	background:var(--cream) ;
+	background:var(--white) ;
 	border-bottom-right-radius: 10px ;
 	border-top-right-radius: 10px ;
 }
